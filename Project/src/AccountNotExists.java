@@ -1,0 +1,2 @@
+class AccountNotExists extends Exception {
+}
